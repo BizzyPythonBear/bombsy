@@ -1,7 +1,7 @@
 <h1>Welcome to my World!</h1>
 <img src="https://github.com/v5k/v5k/blob/main/images/terminal.gif?raw=true" alt="Astro" align="right">
 <div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
-
+h2 { background:url(https://github.com/v5k/v5k/blob/main/images/kali.png?raw=true); }
 ## :computer: Technologies I Love
 * Machine Learning
 * Data Science
