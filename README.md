@@ -1,8 +1,8 @@
 ## Hey, Astro here!
 
-<h1>Welcome to my Digital World!</h1> 
+<h1>Welcome to my World!</h1> 
 
-<img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/terminal.gif' alt = 'Epic Terminal' align='right'/>
+<img src = 'https://github.com/v5k/v5k/blob/master/images/terminal.gif' alt = 'Epic Terminal' align='right'/>
 
 <div style="text-align: right">I love Unix systems!</div>
 
@@ -24,21 +24,19 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'astroclssic'
+ 	user = 'v5k'
 		current_edu = "Internet"
 		hobbies = [
 				'Programming',
 				'Ethical Hacking',
-				'Gaming'
+				'Gaming & Streaming'
 			]
 	
-	def getCity():
+	def getLocation():
 		return Earth()
 	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+	def Goals():
+		LearnRussian()
 	
  ```
  
