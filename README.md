@@ -12,12 +12,10 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v5k&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/sql.svg' width='30'/> 
- <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/bash.png' width='33'/>
+ I code in many languages such as C, C++, HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, Bash and Perl.
  
  ## Technologies I Use
- <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/pycharm.svg' width='30'/> <img src =  'https://github.com/astroclassic/astroclassic/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/astroclassic/astroclassic/blob/master/images/nodejs.svg' width='33'/>
+ I Love Unix systems such as Kali Linux and Raspbian, I use Visual Studio Code for my projects and I learn from W3Schools.
  
  ## Who am I?
  ```python
@@ -35,7 +33,7 @@
 	
 	def Objectives():
 		LearnAssembly()
-		LearnC()
+		MasterPython()
 	
  ```
  
