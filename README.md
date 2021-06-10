@@ -4,7 +4,7 @@
 <div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
 
 ## :computer: Technologies I work with
- I Love Unix systems such as Kali Linux and Raspbian, my editor is Visual Studio Code & [Replit](https://replit.com/@astroclassic) and I learn from [W3Schools](https://www.w3schools.com/)
+ I Love Unix systems such as Kali Linux and Raspbian, my editor is Visual Studio Code & [Replit](https://replit.com/@astroclassic) and I learn from [W3Schools](https://www.w3schools.com/).
 * Frontend and Backend Web Development
 * Database Management
 * Machine Learning
@@ -47,5 +47,5 @@
 ## Other Information on me
   - Check out my [Twitch](https://twitch.tv/astroclassic)! I stream Minecraft 1 - 5 times a week!
   - If you want to contact me, feel free to send me a message on my [Discord Server](https://discord.gg/cbwfVvGYgr)!
-  - Check out my [Github Pages Website](https://v5k.github.io/)
-  - Bitcoin Address: 1LdG8Frnm5tQQPwe1BACDNtL2Ffoq5saCh 
+  - Check out my [Github Pages Website](https://v5k.github.io/)!
+  - Bitcoin Address: 1LdG8Frnm5tQQPwe1BACDNtL2Ffoq5saCh
