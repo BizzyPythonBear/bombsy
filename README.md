@@ -3,28 +3,26 @@
 
 <div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
 
-## :computer: Technologies I Love
-* Machine Learning
-* Data Science
+## :computer: Technologies I work with
+ I Love Unix systems such as Kali Linux and Raspbian, my editor is Visual Studio Code & [Replit](https://replit.com/@astroclassic) and I learn from [W3Schools](https://www.w3schools.com/)
 * Frontend and Backend Web Development
+* Database Management
+* Machine Learning
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v5k&layout=compact">
 
-## Programming Languages
+## My Experience
  I code in many languages such as C, C++, HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, Bash and Perl.
  
- ## Technologies I Use
- I Love Unix systems such as Kali Linux and Raspbian, I use Visual Studio Code for my projects and I learn from W3Schools.
- 
- ## Who am I?
+ ## About Me
  ```python
- class WhoAmI:
+ class AboutMe:
  	user = 'v5k'
-		current_edu = "Internet"
 		hobbies = [
 				'Programming',
 				'Ethical Hacking',
 				'Gaming & Streaming'
+				'Crypto Trading'
 			]
 	
 	def getLocation():
@@ -33,14 +31,21 @@
 	def Objectives():
 		LearnAssembly()
 		MasterPython()
+		MasterC#()
+		
+	def Achievements():
+		TwitchAffiliate()
+		MasteringLinux()
+		BuildingMyPC()
 	
  ```
  
 ## Current Ambitions
- * I'm currently working on building a website hosting platform and working up on polishing my skills in **Competitive Programming**.
- * Getting Started with Python and Assembly.
+ * I'm currently building a game development studio with my friends named [Burning Goose™](https://discord.gg/Aef2zRNXRD) were we will create games and applications.
+ * Finish learning Python and Assembly.
  
 ## Other Information on me
   - Check out my [Twitch](https://twitch.tv/astroclassic)! I stream Minecraft 1 - 5 times a week!
   - If you want to contact me, feel free to send me a message on my [Discord Server](https://discord.gg/cbwfVvGYgr)!
   - Check out my [Github Pages Website](https://v5k.github.io/)
+  - Bitcoin Address: 1LdG8Frnm5tQQPwe1BACDNtL2Ffoq5saCh 
