@@ -4,7 +4,7 @@
 
 <img src = 'https://github.com/v5k/v5k/blob/master/images/terminal.gif' alt = 'Epic Terminal' align='right'/>
 
-<div style="text-align: right">I love Unix systems!</div>
+<div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
 
 ## :computer: Technologies I Love
 * Machine Learning
@@ -35,16 +35,17 @@
 	def getLocation():
 		return Earth()
 	
-	def Goals():
-		LearnRussian()
+	def Objectives():
+		LearnAssembly()
+		LearnC()
 	
  ```
  
-## Current Works
- * I'm currently working on building a website hosting platform and working up on polishing my skills 🌱 in **Competitive Programming**.
+## Current Ambitions
+ * I'm currently working on building a website hosting platform and working up on polishing my skills in **Competitive Programming**.
  * Getting Started with Python and Assembly.
  
-## Other Stuff
-
-  - If you want to contact me, feel free to send me a message on instagram. @astroclassictwitch
-  - Check out my [Github Pages Website](https://astroclassic.github.io/)
+## Other Information on me
+  - Check out my Twitch! I stream Minecraft 1 - 5 times a week!
+  - If you want to contact me, feel free to send me a message on Discord! Charon#0001
+  - Check out my [Github Pages Website](https://v5k.github.io/)
