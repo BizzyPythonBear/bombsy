@@ -1,6 +1,6 @@
 <h1>Welcome to my World!</h1> 
 
-<img src = 'http://github.com/v5k/v5k/blob/master/images/terminal.gif' alt = 'Epic Terminal' align='right'/>
+<img src='http://github.com/v5k/v5k/blob/master/images/terminal.gif' alt='Epic Terminal' align='right'/>
 
 <div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
 
