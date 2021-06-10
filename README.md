@@ -1,5 +1,8 @@
-<h1>Welcome to my World!</h1> 
+<h1>Welcome to my World!</h1>
+![](images/table 1-1.png?raw=true)
+
 <img src="http://github.com/v5k/v5k/blob/master/images/terminal.gif" alt="Astro" align="right">
+<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
 
 <div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
 
