@@ -42,6 +42,6 @@
  * Getting Started with Python and Assembly.
  
 ## Other Information on me
-  - Check out my Twitch! I stream Minecraft 1 - 5 times a week!
-  - If you want to contact me, feel free to send me a message on Discord! Charon#0001
+  - Check out my [Twitch](https://twitch.tv/astroclassic)! I stream Minecraft 1 - 5 times a week!
+  - If you want to contact me, feel free to send me a message on my [Discord Server](https://discord.gg/cbwfVvGYgr)!
   - Check out my [Github Pages Website](https://v5k.github.io/)
