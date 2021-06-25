@@ -1,10 +1,10 @@
 <h1>Welcome to my World!</h1>
 <img src="https://github.com/v5k/v5k/blob/main/images/terminal.gif?raw=true" alt="Astro" align="right">
 
-<div style="text-align: right">Hey, I'm Astro and I like coding, streaming and inventing things. I live in northern Russia and my coding journey started in 2018.</div>
+<div style="text-align: right">Hey, I'm Astro and I like programming, streaming and trading crypto. I live in North America and I started coding in 2018.</div>
 
 ## :computer: Technologies I work with
- I Love Unix systems such as Kali Linux and Raspbian, my editor is Visual Studio Code & [Replit](https://replit.com/@astroclassic) and I learn from [W3Schools](https://www.w3schools.com/).
+ I use Unix systems such as Kali Linux and Raspbian, my editor is Visual Studio Code & [Replit](https://replit.com/@astroclassic) and I learn from [W3Schools](https://www.w3schools.com/).
 * Frontend and Backend Web Development
 * Database Management
 * Machine Learning
@@ -12,7 +12,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=v5k&layout=compact">
 
 ## My Experience
- I code in many languages such as C, C++, HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, Bash and Perl.
+ I code in many languages such as C, C#, Python, HTML, CSS, Bootstrap, JavaScript, PHP, MySQL, Bash and Perl.
  
  ## About Me
  ```python
